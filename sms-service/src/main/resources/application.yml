@@ -20,7 +20,7 @@ spring:
 
 twilio:
   accountSid: ${id}
-  authToken: 6825f7bdb5f1304984727ac59319c97e
+  authToken: ${token}
   phoneNumber: +16592447733
 
 rabbitmq:
