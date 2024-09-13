@@ -1,0 +1,32 @@
+.label2 {
+    font-weight: bold;
+    color: #fdfafa;
+    font-size: 1.2rem;
+    justify-content: center;
+    margin-left: auto;
+    gap: .5rem;
+}
+.text{
+    width: 100%;
+    height: 40px;
+    padding: 0.5rem;
+    color: lightblue;
+    font-size: 1.2rem;
+    resize: vertical;
+
+}
+
+.profile-img-wrapper{
+    width: 15vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #1e5e58;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.profile-img-wrapper img {
+    width: 100%;
+    border-radius: 10px;
+}
