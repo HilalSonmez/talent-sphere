@@ -19,7 +19,7 @@ spring:
     password: user
 
 twilio:
-  accountSid: "AC3ed26c1b5a67d6f6efbb49c199c5e2bc"
+  accountSid: ${id}
   authToken: 6825f7bdb5f1304984727ac59319c97e
   phoneNumber: +16592447733
 
